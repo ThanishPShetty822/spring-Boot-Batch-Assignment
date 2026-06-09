@@ -1,0 +1,14 @@
+package com.springbatch.example.bootbatch;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class BootbatchApplication {
+
+	public static void main(String[] args) {
+
+		SpringApplication.run(BootbatchApplication.class, args);
+	}
+
+}
